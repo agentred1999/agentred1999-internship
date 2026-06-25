@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/agentred1999-internship/static/css/main.4a5d81d9.css",
+    "main.js": "/agentred1999-internship/static/js/main.610ad07a.js",
+    "static/js/787.0979ab29.chunk.js": "/agentred1999-internship/static/js/787.0979ab29.chunk.js",
+    "static/media/icofont.woff": "/agentred1999-internship/static/media/icofont.dad3accba068281878f1.woff",
+    "static/media/icofont.woff2": "/agentred1999-internship/static/media/icofont.9c33516aab48c61e3081.woff2",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/agentred1999-internship/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/author_banner.jpg": "/agentred1999-internship/static/media/author_banner.3461d4a43582732aed21.jpg",
+    "static/media/ElegantIcons.svg": "/agentred1999-internship/static/media/ElegantIcons.a3709f859357b50798d9.svg",
+    "static/media/et-line.svg": "/agentred1999-internship/static/media/et-line.613c7311d2d5a1dd7e49.svg",
+    "static/media/fontawesome-webfont.eot": "/agentred1999-internship/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/agentred1999-internship/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/agentred1999-internship/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/agentred1999-internship/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ElegantIcons.woff": "/agentred1999-internship/static/media/ElegantIcons.941bf29b415d3a9b7099.woff",
+    "static/media/ElegantIcons.eot": "/agentred1999-internship/static/media/ElegantIcons.78ba4ad1289e5a66ca11.eot",
+    "static/media/ElegantIcons.ttf": "/agentred1999-internship/static/media/ElegantIcons.4555dd9ce623f8fd6d72.ttf",
+    "static/media/et-line.woff": "/agentred1999-internship/static/media/et-line.d59b23856f66f9876c47.woff",
+    "static/media/subheader.jpg": "/agentred1999-internship/static/media/subheader.bd3b04df2c5c85b26398.jpg",
+    "static/media/nft.png": "/agentred1999-internship/static/media/nft.c82a8c50b34e0c3cbdda.png",
+    "static/media/et-line.eot": "/agentred1999-internship/static/media/et-line.3f5eecf9f3326c4d6d81.eot",
+    "static/media/et-line.ttf": "/agentred1999-internship/static/media/et-line.cc7129c849c81d254698.ttf",
+    "static/media/bg-shape-1.jpg": "/agentred1999-internship/static/media/bg-shape-1.ba54a8e086d0e99d912d.jpg",
+    "index.html": "/agentred1999-internship/index.html",
+    "static/media/ethereum.svg": "/agentred1999-internship/static/media/ethereum.df265e367364f285053a1285ad8d418d.svg",
+    "main.4a5d81d9.css.map": "/agentred1999-internship/static/css/main.4a5d81d9.css.map",
+    "main.610ad07a.js.map": "/agentred1999-internship/static/js/main.610ad07a.js.map",
+    "787.0979ab29.chunk.js.map": "/agentred1999-internship/static/js/787.0979ab29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5d81d9.css",
+    "static/js/main.610ad07a.js"
+  ]
+}
