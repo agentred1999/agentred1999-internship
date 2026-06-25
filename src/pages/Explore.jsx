@@ -1,10 +1,13 @@
 import React, { useEffect } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 import SubHeader from "../images/subheader.jpg";
 import ExploreItems from "../components/explore/ExploreItems";
 
 const Explore = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
+    AOS.init({ duration: 800, once: true });
   }, []);
 
   return (
@@ -20,7 +23,7 @@ const Explore = () => {
           <div className="center-y relative text-center">
             <div className="container">
               <div className="row">
-                <div className="col-md-12 text-center">
+                <div className="col-md-12 text-center" data-aos="fade-up">
                   <h1>Explore</h1>
                 </div>
                 <div className="clearfix"></div>
